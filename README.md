@@ -1,4 +1,4 @@
-"Neon Tic-Tac-Toe App" [Link Text](https://godwin-lian.github.io/NeonTic-Tac-Toe/)
+"Neon Tic-Tac-Toe App" [Visit the Page!!](https://godwin-lian.github.io/NeonTic-Tac-Toe/)
 
 ![preview](preview.png)
 
