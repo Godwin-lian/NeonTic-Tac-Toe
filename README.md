@@ -1,4 +1,6 @@
-"Neon Tic-Tac-Toe App"
+"Neon Tic-Tac-Toe App" [Link Text](https://godwin-lian.github.io/NeonTic-Tac-Toe/)
+
+![preview](preview.png)
 
 The Neon Tic-Tac-Toe App is a web-based implementation of the classic game of Tic-Tac-Toe. It features a sleek and visually appealing neon-themed interface that adds a modern twist to the traditional game. Players can take turns marking Xs and Os on a grid until one player achieves a winning combination or the game ends in a draw.
 
